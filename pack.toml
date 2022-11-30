@@ -1,0 +1,13 @@
+name = "Cheapslate"
+author = "cozyGalvinism"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dec185ae44bc2adfebe03bb75feb7effed86b1cf40ad95a60f9f8b6498c0ab32"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.19.2"

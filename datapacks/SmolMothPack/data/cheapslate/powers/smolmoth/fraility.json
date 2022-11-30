@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Fragile health reduction",
+        "attribute": "minecraft:generic.max_health",
+        "value": -6,
+        "operation": "addition"
+    },
+    "name": "Fraility",
+    "description": "Your body is light but very frail. You only have 7 hearts."
+}

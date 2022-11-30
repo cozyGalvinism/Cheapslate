@@ -1,0 +1,13 @@
+name = "Revelationary"
+filename = "revelationary-1.0.2+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/L7Kcd2OC/revelationary-1.0.2%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "9af250789949e21ffaa3b49e78aa0e72a19aa156"
+
+[update]
+[update.modrinth]
+mod-id = "eXrl5E3G"
+version = "L7Kcd2OC"
